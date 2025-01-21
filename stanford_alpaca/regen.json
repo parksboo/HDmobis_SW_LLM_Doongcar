@@ -1,0 +1,709 @@
+[
+    {
+        "instruction": "Please generate a list of 10 random numbers between 1 and 100.",
+        "input": "",
+        "output": "[23, 57, 12, 89, 41, 76, 98, 34, 65, 10]",
+        "most_similar_instructions": {
+            "Generate a starting word for a sentence completion game": 0.1904761904761905,
+            "Please generate a word in Korean and five clues associated with it. The generated word and clues should be relevant and provide insightful hints for guessing. please generate a word and five clues in korean": 0.1702127659574468,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.08888888888888888
+        },
+        "avg_similarity_score": 0.14578858493752112
+    },
+    {
+        "instruction": "Please generate a sentence using the words \"delicious\" and \"dessert\".",
+        "input": "",
+        "output": "The chocolate cake was absolutely delicious, it was the perfect dessert to end the meal.",
+        "most_similar_instructions": {
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.3636363636363636,
+            "Generate a starting word for a sentence completion game": 0.3157894736842105,
+            "Please generate a word in Korean and five clues associated with it. The generated word and clues should be relevant and provide insightful hints for guessing. please generate a word and five clues in korean": 0.22222222222222224,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.0930232558139535
+        },
+        "avg_similarity_score": 0.22212106600667855
+    },
+    {
+        "instruction": "Please classify the given text as either positive or negative sentiment.",
+        "input": "I had the best day ever!",
+        "output": "positive",
+        "most_similar_instructions": {
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.22727272727272727,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.1904761904761905,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.08695652173913043,
+            "Please generate a word in Korean and five clues associated with it. The generated word and clues should be relevant and provide insightful hints for guessing. please generate a word and five clues in korean": 0.08695652173913043,
+            "Generate a starting word for a sentence completion game": 0.0
+        },
+        "avg_similarity_score": 0.11336972206537423
+    },
+    {
+        "instruction": "Please generate a list of 5 countries in Asia and their capital cities.",
+        "input": "",
+        "output": "[{Country: Japan, Capital: Tokyo}, {Country: China, Capital: Beijing}, {Country: India, Capital: New Delhi}, {Country: South Korea, Capital: Seoul}, {Country: Thailand, Capital: Bangkok}]",
+        "most_similar_instructions": {
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.48000000000000004,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.34782608695652173,
+            "Please generate a word in Korean and five clues associated with it. The generated word and clues should be relevant and provide insightful hints for guessing. please generate a word and five clues in korean": 0.20833333333333331,
+            "Generate a starting word for a sentence completion game": 0.18181818181818185,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.08695652173913043
+        },
+        "avg_similarity_score": 0.18484037701429004
+    },
+    {
+        "instruction": "Please edit the given text by replacing all instances of \"I\" with \"you\".",
+        "input": "I love to travel and explore new places.",
+        "output": "You love to travel and explore new places.",
+        "most_similar_instructions": {
+            "Please classify the given text as either positive or negative sentiment.": 0.33333333333333337,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.17391304347826086,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.16,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.15384615384615385,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.13043478260869568,
+            "Please generate a word in Korean and five clues associated with it. The generated word and clues should be relevant and provide insightful hints for guessing. please generate a word and five clues in korean": 0.08333333333333333
+        },
+        "avg_similarity_score": 0.10782130912565695
+    },
+    {
+        "instruction": "Please generate a list of 5 popular movies and their release dates.",
+        "input": "",
+        "output": "[{Movie: Titanic, Release Date: December 19, 1997}, {Movie: The Lion King, Release Date: June 15, 1994}, {Movie: Avatar, Release Date: December 18, 2009}, {Movie: Jurassic Park, Release Date: June 11, 1993}, {Movie: The Avengers, Release Date: April 11, 2012}]",
+        "most_similar_instructions": {
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.64,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.5,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.3636363636363636,
+            "Generate a starting word for a sentence completion game": 0.1904761904761905,
+            "Please generate a word in Korean and five clues associated with it. The generated word and clues should be relevant and provide insightful hints for guessing. please generate a word and five clues in korean": 0.1702127659574468,
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.16
+        },
+        "avg_similarity_score": 0.21389858231671371
+    },
+    {
+        "instruction": "Please classify the given text as either a noun, verb, adjective, or adverb.",
+        "input": "The cat jumped over the fence.",
+        "output": "verb",
+        "most_similar_instructions": {
+            "Please classify the given text as either positive or negative sentiment.": 0.6666666666666667,
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.3076923076923077,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.21739130434782608,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.17391304347826086,
+            "Please generate a list of 5 popular movies and their release dates.": 0.16,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.16,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.15384615384615385
+        },
+        "avg_similarity_score": 0.19408248454444105
+    },
+    {
+        "instruction": "Please edit the given text by capitalizing the first letter of each word.",
+        "input": "the quick brown fox jumps over the lazy dog",
+        "output": "The Quick Brown Fox Jumps Over The Lazy Dog",
+        "most_similar_instructions": {
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.5384615384615384,
+            "Please classify the given text as either positive or negative sentiment.": 0.33333333333333337,
+            "Please classify the given text as either a noun, verb, adjective, or adverb.": 0.3076923076923077,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.17391304347826086,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.17391304347826086,
+            "Please generate a list of 5 popular movies and their release dates.": 0.16,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.16
+        },
+        "avg_similarity_score": 0.18450205378594126
+    },
+    {
+        "instruction": "Classify the given sentence as either a statement, question, command, or exclamation",
+        "input": "What is your favorite color?",
+        "output": "question",
+        "most_similar_instructions": {
+            "Please classify the given text as either a noun, verb, adjective, or adverb.": 0.5599999999999999,
+            "Please classify the given text as either positive or negative sentiment.": 0.5217391304347826,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.26666666666666666,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.16,
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.16,
+            "Generate a starting word for a sentence completion game": 0.09523809523809525
+        },
+        "avg_similarity_score": 0.1865081500881686
+    },
+    {
+        "instruction": "Edit the given sentence to make it more concise and clear",
+        "input": "The dog that belongs to my neighbor is a golden retriever",
+        "output": "My neighbor's dog is a golden retriever",
+        "most_similar_instructions": {
+            "Classify the given sentence as either a statement, question, command, or exclamation": 0.2608695652173913,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.24999999999999994,
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.24999999999999994,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.1904761904761905,
+            "Please classify the given text as either positive or negative sentiment.": 0.18181818181818182,
+            "Please classify the given text as either a noun, verb, adjective, or adverb.": 0.16666666666666669,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.13636363636363635
+        },
+        "avg_similarity_score": 0.14086550368014897
+    },
+    {
+        "instruction": "Generate a list of synonyms for the given word",
+        "input": "Happy",
+        "output": "Joyful, content, delighted, pleased, elated",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular movies and their release dates.": 0.380952380952381,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.380952380952381,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.3636363636363637,
+            "Generate a starting word for a sentence completion game": 0.3333333333333333,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.3157894736842105,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.27272727272727276,
+            "Edit the given sentence to make it more concise and clear": 0.19999999999999998
+        },
+        "avg_similarity_score": 0.24682843472317156
+    },
+    {
+        "instruction": "Create a sentence using the given words",
+        "input": "Piano, music, concert",
+        "output": "I attended a beautiful concert where the pianist played mesmerizing music.",
+        "most_similar_instructions": {
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.588235294117647,
+            "Generate a list of synonyms for the given word": 0.375,
+            "Generate a starting word for a sentence completion game": 0.25,
+            "Please classify the given text as either positive or negative sentiment.": 0.2222222222222222,
+            "Edit the given sentence to make it more concise and clear": 0.2222222222222222,
+            "Classify the given sentence as either a statement, question, command, or exclamation": 0.2105263157894737,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.2
+        },
+        "avg_similarity_score": 0.19615278860082044
+    },
+    {
+        "instruction": "Identify the part of speech for the given word",
+        "input": "Happiness",
+        "output": "noun",
+        "most_similar_instructions": {
+            "Generate a list of synonyms for the given word": 0.5555555555555556,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.27272727272727276,
+            "Create a sentence using the given words": 0.25,
+            "Please classify the given text as either positive or negative sentiment.": 0.19999999999999998,
+            "Edit the given sentence to make it more concise and clear": 0.19999999999999998,
+            "Classify the given sentence as either a statement, question, command, or exclamation": 0.1904761904761905,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.19047619047619047
+        },
+        "avg_similarity_score": 0.17718728639781273
+    },
+    {
+        "instruction": "Identify the subject of the given sentence",
+        "input": "The cat chased the mouse",
+        "output": "cat",
+        "most_similar_instructions": {
+            "Identify the part of speech for the given word": 0.6250000000000001,
+            "Generate a list of synonyms for the given word": 0.375,
+            "Edit the given sentence to make it more concise and clear": 0.33333333333333326,
+            "Classify the given sentence as either a statement, question, command, or exclamation": 0.3157894736842105,
+            "Create a sentence using the given words": 0.2857142857142857,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.25,
+            "Please classify the given text as either positive or negative sentiment.": 0.2222222222222222
+        },
+        "avg_similarity_score": 0.2078465558610935
+    },
+    {
+        "instruction": "Please classify the given text into one of the following categories: sports, politics, entertainment, technology",
+        "input": "Text: \"The latest iPhone model has been released with a new and improved camera.\"",
+        "output": "Technology",
+        "most_similar_instructions": {
+            "Please classify the given text as either positive or negative sentiment.": 0.3846153846153846,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.3571428571428571,
+            "Please classify the given text as either a noun, verb, adjective, or adverb.": 0.3571428571428571,
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.3571428571428571,
+            "Identify the subject of the given sentence": 0.27272727272727276,
+            "Identify the part of speech for the given word": 0.25,
+            "Classify the given sentence as either a statement, question, command, or exclamation": 0.22222222222222224,
+            "Create a sentence using the given words": 0.18181818181818182,
+            "Generate a list of synonyms for the given word": 0.16666666666666669,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.17204768996435663
+    },
+    {
+        "instruction": "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"",
+        "input": "",
+        "output": "Trekking through the mountains was an exhilarating adventure that left us breathless and in awe of nature's beauty.",
+        "most_similar_instructions": {
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.6666666666666666,
+            "Create a sentence using the given words": 0.5555555555555556,
+            "Generate a starting word for a sentence completion game": 0.3,
+            "Generate a list of synonyms for the given word": 0.3,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.2608695652173913,
+            "Please generate a list of 5 popular movies and their release dates.": 0.2608695652173913,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.24999999999999994
+        },
+        "avg_similarity_score": 0.22027951758386538
+    },
+    {
+        "instruction": "Please edit the following sentence to correct any grammatical errors: \"She don't like pizza.\"",
+        "input": "She don't like pizza.",
+        "output": "She doesn't like pizza.",
+        "most_similar_instructions": {
+            "Edit the given sentence to make it more concise and clear": 0.30769230769230765,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.23076923076923075,
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.21428571428571427,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.21428571428571427,
+            "Please classify the given text into one of the following categories: sports, politics, entertainment, technology": 0.20000000000000004,
+            "Identify the subject of the given sentence": 0.18181818181818182,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.13810981041750273
+    },
+    {
+        "instruction": "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"",
+        "input": "",
+        "output": "Success is not achieved overnight, but through hard work and determination, we can overcome any obstacle and reach our goals, no matter how challenging they may seem.",
+        "most_similar_instructions": {
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.6956521739130435,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.6363636363636365,
+            "Create a sentence using the given words": 0.5263157894736842,
+            "Generate a starting word for a sentence completion game": 0.28571428571428575,
+            "Generate a list of synonyms for the given word": 0.28571428571428575,
+            "Please generate a list of 5 popular movies and their release dates.": 0.25,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.25
+        },
+        "avg_similarity_score": 0.22933454488593497
+    },
+    {
+        "instruction": "Please generate a list of 5 countries that have the highest number of COVID-19 cases.",
+        "input": "",
+        "output": "{five countries:\nUnited States, India, Brazil, Russia, France}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.4827586206896552,
+            "Please generate a list of 5 popular movies and their release dates.": 0.42857142857142855,
+            "Generate a list of synonyms for the given word": 0.39999999999999997,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.35714285714285715,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.3076923076923077,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.2962962962962963,
+            "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"": 0.28571428571428575,
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.20689655172413793,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.20689655172413793,
+            "Please classify the given text into one of the following categories: sports, politics, entertainment, technology": 0.19354838709677422
+        },
+        "avg_similarity_score": 0.20276710244178195
+    },
+    {
+        "instruction": "Please edit the given sentence by replacing the word 'happy' with a synonym.",
+        "input": "I am feeling happy today.",
+        "output": "I am feeling joyful today.",
+        "most_similar_instructions": {
+            "Please edit the given text by replacing all instances of \"I\" with \"you\".": 0.5384615384615384,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.5384615384615384,
+            "Edit the given sentence to make it more concise and clear": 0.33333333333333337,
+            "Classify the given sentence as either a statement, question, command, or exclamation": 0.32,
+            "Please classify the given text as either a noun, verb, adjective, or adverb.": 0.3076923076923077,
+            "Identify the subject of the given sentence": 0.3,
+            "Please edit the following sentence to correct any grammatical errors: \"She don't like pizza.\"": 0.28571428571428575,
+            "Please classify the given text into one of the following categories: sports, politics, entertainment, technology": 0.28571428571428575,
+            "Generate a list of synonyms for the given word": 0.27272727272727276,
+            "Identify the part of speech for the given word": 0.27272727272727276
+        },
+        "avg_similarity_score": 0.2421978214792153
+    },
+    {
+        "instruction": "Please generate a sentence that describes the weather in a specific location.",
+        "input": "",
+        "output": "The sun is shining and the temperature is warm in Los Angeles, California.",
+        "most_similar_instructions": {
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.45454545454545453,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.43478260869565216,
+            "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"": 0.4166666666666667,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.35714285714285715,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.32,
+            "Please edit the given sentence by replacing the word 'happy' with a synonym.": 0.32,
+            "Create a sentence using the given words": 0.3157894736842105,
+            "Generate a starting word for a sentence completion game": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.22709732470228758
+    },
+    {
+        "instruction": "Please generate a sentence that describes a specific event happening in a certain location.",
+        "input": "",
+        "output": "The annual Cherry Blossom Festival is taking place in Washington D.C., with thousands of people enjoying the beautiful pink flowers.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the weather in a specific location.": 0.6923076923076924,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.3333333333333333,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.32,
+            "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"": 0.30769230769230765,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.29629629629629634,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.26666666666666666,
+            "Generate a starting word for a sentence completion game": 0.2608695652173913
+        },
+        "avg_similarity_score": 0.19254162481311923
+    },
+    {
+        "instruction": "Please generate a sentence that provides information about a specific country.",
+        "input": "",
+        "output": "France is known for its delicious cuisine, beautiful architecture, and rich history.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the weather in a specific location.": 0.6086956521739131,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.56,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.380952380952381,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.36363636363636365,
+            "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"": 0.34782608695652173,
+            "Generate a starting word for a sentence completion game": 0.3,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.2962962962962963
+        },
+        "avg_similarity_score": 0.21699298386798385
+    },
+    {
+        "instruction": "Generate a list of 5 adjectives to describe a beautiful sunset.",
+        "input": "",
+        "output": "vibrant, breathtaking, serene, picturesque, radiant",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular movies and their release dates.": 0.43478260869565216,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.41666666666666663,
+            "Generate a list of synonyms for the given word": 0.39999999999999997,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.3703703703703703,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.34782608695652173,
+            "Generate a starting word for a sentence completion game": 0.3,
+            "Please generate a sentence that provides information about a specific country.": 0.2727272727272727
+        },
+        "avg_similarity_score": 0.1793759107724852
+    },
+    {
+        "instruction": "Your role is to generate a response to a customer's complaint about a product.",
+        "input": "The product I received was damaged and unusable.",
+        "output": "We apologize for the inconvenience. Please provide us with your order number so we can assist you further.",
+        "most_similar_instructions": {
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.30769230769230765,
+            "Please generate a sentence that provides information about a specific country.": 0.30769230769230765,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.2758620689655172,
+            "Generate a starting word for a sentence completion game": 0.25,
+            "Please generate a sentence that describes the weather in a specific location.": 0.22222222222222224,
+            "Generate a list of synonyms for the given word": 0.16666666666666669,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.13730624383964696
+    },
+    {
+        "instruction": "Your role is to provide a definition for the given word.",
+        "input": "Define \"resilience\"",
+        "output": "the ability to recover quickly from difficulties; toughness",
+        "most_similar_instructions": {
+            "Generate a list of synonyms for the given word": 0.5,
+            "Identify the part of speech for the given word": 0.39999999999999997,
+            "Your role is to generate a response to a customer's complaint about a product.": 0.3846153846153846,
+            "Create a sentence using the given words": 0.33333333333333326,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.2727272727272727,
+            "Please edit the given text by capitalizing the first letter of each word.": 0.24999999999999994,
+            "Please edit the given sentence by replacing the word 'happy' with a synonym.": 0.24999999999999994
+        },
+        "avg_similarity_score": 0.20205268069864343
+    },
+    {
+        "instruction": "Your role is to complete the given sentence with a suitable word.",
+        "input": "I can't believe I forgot my _______ at home.",
+        "output": "wallet",
+        "most_similar_instructions": {
+            "Your role is to provide a definition for the given word.": 0.6086956521739131,
+            "Please edit the given sentence by replacing the word 'happy' with a synonym.": 0.4,
+            "Your role is to generate a response to a customer's complaint about a product.": 0.3703703703703704,
+            "Classify the given sentence as either a statement, question, command, or exclamation": 0.3333333333333333,
+            "Identify the subject of the given sentence": 0.3157894736842105,
+            "Your role is to assess the accuracy and consistency of the given sentence within the context of an ongoing story. Please briefly evaluate the validity of the sentence as either 'correct' or 'incorrect'.": 0.3111111111111111,
+            "Identify the part of speech for the given word": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.215847890794537
+    },
+    {
+        "instruction": "Please generate a list of 5 popular tourist attractions in a specific city.",
+        "input": "City: Paris",
+        "output": "{five tourist attractions :\nEiffel Tower, Louvre Museum, Notre-Dame Cathedral, Arc de Triomphe, Palace of Versailles}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular movies and their release dates.": 0.5599999999999999,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.5384615384615384,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.4999999999999999,
+            "Please generate a sentence that describes the weather in a specific location.": 0.48000000000000004,
+            "Please generate a sentence that provides information about a specific country.": 0.41666666666666663,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.41379310344827586,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.4,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.3703703703703704,
+            "Generate a list of synonyms for the given word": 0.3636363636363637,
+            "Generate a starting word for a sentence completion game": 0.27272727272727276
+        },
+        "avg_similarity_score": 0.22461435821255912
+    },
+    {
+        "instruction": "Please generate a list of 5 common ingredients used in Italian cuisine.",
+        "input": "",
+        "output": "{five ingredients :\nTomatoes, pasta, olive oil, garlic, basil}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.5599999999999999,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.5599999999999999,
+            "Please generate a list of 5 popular movies and their release dates.": 0.5,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.43478260869565216,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.42857142857142855,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.4166666666666667,
+            "Generate a list of synonyms for the given word": 0.380952380952381,
+            "Please generate a sentence that describes the weather in a specific location.": 0.3333333333333333,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.30769230769230765,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.2727272727272727
+        },
+        "avg_similarity_score": 0.21265961763136584
+    },
+    {
+        "instruction": "Please generate a sentence that describes the process of making a cup of coffee.",
+        "input": "",
+        "output": "To make a cup of coffee, you will need to grind fresh coffee beans, boil water, pour the hot water over the grounds, and let it steep for a few minutes before pressing the plunger down and pouring the coffee into a mug.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the weather in a specific location.": 0.6153846153846153,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.5,
+            "Please generate a sentence that provides information about a specific country.": 0.4799999999999999,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.41666666666666663,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.4,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.39999999999999997,
+            "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"": 0.3846153846153846,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.3703703703703704,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.32,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.2659552651253376
+    },
+    {
+        "instruction": "Please generate a list of 5 famous paintings by Vincent van Gogh.",
+        "input": "",
+        "output": "{five paintings :\nThe Starry Night, Sunflowers, Irises, The Potato Eaters, The Bedroom}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.5,
+            "Please generate a list of 5 popular movies and their release dates.": 0.5,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.48000000000000004,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.48000000000000004,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.43478260869565216,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.42857142857142855,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.4166666666666667,
+            "Generate a list of synonyms for the given word": 0.380952380952381,
+            "Please generate a sentence that describes the process of making a cup of coffee.": 0.30769230769230765,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.2727272727272727
+        },
+        "avg_similarity_score": 0.21208487461122694
+    },
+    {
+        "instruction": "Please generate a list of 5 popular songs from the 90s.",
+        "input": "",
+        "output": "{five songs :\nSmells Like Teen Spirit by Nirvana, Baby One More Time by Britney Spears, Wonderwall by Oasis, I Want It That Way by Backstreet Boys, Losing My Religion by R.E.M.}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular movies and their release dates.": 0.6086956521739131,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.5833333333333334,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.5217391304347826,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.5217391304347826,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.5185185185185185,
+            "Generate a list of synonyms for the given word": 0.5,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.4999999999999999,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.45454545454545453,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.43478260869565216,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.380952380952381
+        },
+        "avg_similarity_score": 0.27043009266763246
+    },
+    {
+        "instruction": "Please generate a list of 5 popular hiking trails in the United States.",
+        "input": "",
+        "output": "{five hiking trails :\nAppalachian Trail, Pacific Crest Trail, Grand Canyon Rim-to-Rim Trail, Half Dome Trail, Zion Narrows Trail}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular songs from the 90s.": 0.6666666666666667,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.6153846153846154,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.5599999999999999,
+            "Please generate a list of 5 popular movies and their release dates.": 0.5599999999999999,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.5384615384615384,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.4827586206896552,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.48000000000000004,
+            "Generate a list of synonyms for the given word": 0.4545454545454546,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.41666666666666663,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.4
+        },
+        "avg_similarity_score": 0.2685186562747782
+    },
+    {
+        "instruction": "Please generate a list of 5 ingredients needed to make a classic Italian pasta dish.",
+        "input": "Dish: Spaghetti Carbonara",
+        "output": "{five ingredients :\nspaghetti, pancetta, eggs, parmesan cheese, black pepper}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.5925925925925926,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.5384615384615385,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.5,
+            "Please generate a list of 5 popular songs from the 90s.": 0.4615384615384615,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.4444444444444445,
+            "Please generate a list of 5 popular movies and their release dates.": 0.4444444444444445,
+            "Please generate a list of 5 popular hiking trails in the United States.": 0.42857142857142855,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.42857142857142855,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.38709677419354843,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.3703703703703704
+        },
+        "avg_similarity_score": 0.2436553229943819
+    },
+    {
+        "instruction": "Please generate a sentence that describes the appearance of a famous landmark.",
+        "input": "Landmark: Taj Mahal",
+        "output": "The Taj Mahal is a stunning white marble mausoleum with intricate carvings and a large dome at the center.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the process of making a cup of coffee.": 0.6923076923076924,
+            "Please generate a sentence that describes the weather in a specific location.": 0.6666666666666666,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.5384615384615384,
+            "Please generate a sentence that provides information about a specific country.": 0.5217391304347826,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.45454545454545453,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.43478260869565216,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.42857142857142855,
+            "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"": 0.4166666666666667,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.4166666666666667,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.4
+        },
+        "avg_similarity_score": 0.29957653610613166
+    },
+    {
+        "instruction": "Please generate a list of 5 common symptoms of the flu.",
+        "input": "",
+        "output": "{five symptoms :\nfever, cough, sore throat, body aches, fatigue}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular songs from the 90s.": 0.6363636363636364,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.6086956521739131,
+            "Please generate a list of 5 popular hiking trails in the United States.": 0.5833333333333334,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.5217391304347826,
+            "Please generate a list of 5 popular movies and their release dates.": 0.5217391304347826,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.5185185185185185,
+            "Generate a list of synonyms for the given word": 0.5,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.4999999999999999,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.4999999999999999,
+            "Please generate a list of 5 ingredients needed to make a classic Italian pasta dish.": 0.4615384615384615
+        },
+        "avg_similarity_score": 0.2914080440940345
+    },
+    {
+        "instruction": "Please generate a list of 5 essential items for a hiking trip.",
+        "input": "",
+        "output": "{five items :\nbackpack, water bottle, hiking boots, map, first aid kit}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular hiking trails in the United States.": 0.5599999999999999,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.5599999999999999,
+            "Please generate a list of 5 common symptoms of the flu.": 0.5217391304347826,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.5217391304347826,
+            "Please generate a list of 5 popular songs from the 90s.": 0.5217391304347826,
+            "Please generate a list of 5 ingredients needed to make a classic Italian pasta dish.": 0.5185185185185186,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.5,
+            "Please generate a list of 5 popular movies and their release dates.": 0.5,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.5,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.48000000000000004
+        },
+        "avg_similarity_score": 0.28906033207202564
+    },
+    {
+        "instruction": "Please generate a list of 5 famous historical figures from ancient Greece.",
+        "input": "",
+        "output": "{five historical figures :\nSocrates, Plato, Aristotle, Alexander the Great, Pericles}",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular songs from the 90s.": 0.6086956521739131,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.5833333333333334,
+            "Please generate a list of 5 common symptoms of the flu.": 0.5217391304347826,
+            "Please generate a list of 5 essential items for a hiking trip.": 0.5,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.5,
+            "Please generate a list of 5 popular movies and their release dates.": 0.5,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.48000000000000004,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.48000000000000004,
+            "Please generate a list of 5 popular hiking trails in the United States.": 0.48000000000000004,
+            "Please generate a list of 5 ingredients needed to make a classic Italian pasta dish.": 0.4444444444444445
+        },
+        "avg_similarity_score": 0.25613349386174933
+    },
+    {
+        "instruction": "Please generate a sentence that describes the current weather in a specific location. The sentence should include the temperature, humidity, and any relevant weather conditions.",
+        "input": "Location: New York City",
+        "output": "The current weather in New York City is 75 degrees Fahrenheit with 60% humidity and partly cloudy skies.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the weather in a specific location.": 0.6486486486486487,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.4615384615384615,
+            "Please generate a sentence that describes the appearance of a famous landmark.": 0.43243243243243246,
+            "Please generate a sentence that describes the process of making a cup of coffee.": 0.41025641025641024,
+            "Please generate a sentence that provides information about a specific country.": 0.3888888888888889,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.34285714285714286,
+            "Please generate a list of 5 popular tourist attractions in a specific city.": 0.3157894736842105,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.2777777777777778,
+            "Please generate a sentence using the following words: \"success\", \"hard work\", \"determination\"": 0.2702702702702703,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.2631578947368421
+        },
+        "avg_similarity_score": 0.22259056270564384
+    },
+    {
+        "instruction": "Please generate a sentence that describes the ingredients and cooking process for a traditional Italian pasta dish.",
+        "input": "Dish: Spaghetti Carbonara",
+        "output": "Spaghetti Carbonara is made with spaghetti noodles, pancetta, eggs, parmesan cheese, and black pepper. The pasta is cooked and then tossed with a mixture of beaten eggs, cheese, and pancetta, creating a creamy and flavorful sauce.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the process of making a cup of coffee.": 0.5806451612903226,
+            "Please generate a sentence that describes the appearance of a famous landmark.": 0.5517241379310345,
+            "Please generate a sentence that describes the weather in a specific location.": 0.5517241379310345,
+            "Please generate a list of 5 ingredients needed to make a classic Italian pasta dish.": 0.5,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.45161290322580644,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.4444444444444445,
+            "Please generate a sentence that provides information about a specific country.": 0.42857142857142855,
+            "Please generate a sentence that describes the current weather in a specific location. The sentence should include the temperature, humidity, and any relevant weather conditions.": 0.38095238095238104,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.35714285714285715,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.3448275862068966
+        },
+        "avg_similarity_score": 0.2615920073119115
+    },
+    {
+        "instruction": "Please generate a sentence that describes the steps for solving a quadratic equation.",
+        "input": "Equation: 2x^2 + 5x - 3 = 0",
+        "output": "To solve the quadratic equation 2x^2 + 5x - 3 = 0, first use the quadratic formula to find the two possible values for x. Then, plug these values back into the original equation to check for accuracy.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the appearance of a famous landmark.": 0.64,
+            "Please generate a sentence that describes the weather in a specific location.": 0.64,
+            "Please generate a sentence that describes the ingredients and cooking process for a traditional Italian pasta dish.": 0.5999999999999999,
+            "Please generate a sentence that describes the process of making a cup of coffee.": 0.5925925925925927,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.5185185185185186,
+            "Please generate a sentence that provides information about a specific country.": 0.4999999999999999,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.4347826086956522,
+            "Please generate a sentence that describes the current weather in a specific location. The sentence should include the temperature, humidity, and any relevant weather conditions.": 0.4210526315789474,
+            "Please generate a sentence using the following words: \"mountain\", \"adventure\", \"trekking\"": 0.41666666666666663,
+            "Please generate a list of 5 essential items for a hiking trip.": 0.4
+        },
+        "avg_similarity_score": 0.28793425823324037
+    },
+    {
+        "instruction": "Please generate a sentence that describes the main features and capabilities of a new smartphone model.",
+        "input": "Model: Samsung Galaxy S21",
+        "output": "The Samsung Galaxy S21 boasts a 6.2 inch Dynamic AMOLED display, a triple camera system with 64MP resolution, and 5G connectivity. It also has a powerful Exynos 2100 processor and a long-lasting battery.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the appearance of a famous landmark.": 0.6428571428571429,
+            "Please generate a sentence that describes the process of making a cup of coffee.": 0.6000000000000001,
+            "Please generate a sentence that describes the weather in a specific location.": 0.5714285714285715,
+            "Please generate a sentence that describes the steps for solving a quadratic equation.": 0.5517241379310345,
+            "Please generate a sentence that describes the ingredients and cooking process for a traditional Italian pasta dish.": 0.5454545454545455,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.4666666666666667,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.4615384615384615,
+            "Please generate a sentence that provides information about a specific country.": 0.4444444444444444,
+            "Please generate a sentence that describes the current weather in a specific location. The sentence should include the temperature, humidity, and any relevant weather conditions.": 0.39024390243902435,
+            "Please generate a list of 5 countries that have the highest number of COVID-19 cases.": 0.375
+        },
+        "avg_similarity_score": 0.28565907633504617
+    },
+    {
+        "instruction": "Please generate a sentence that describes the steps for creating a budget for a small business.",
+        "input": "Business: Coffee shop",
+        "output": "To create a budget for a coffee shop, first determine all necessary expenses such as rent, supplies, and employee salaries. Then, estimate potential revenue based on projected sales. Finally, adjust expenses and revenue as needed to ensure a profitable budget.",
+        "most_similar_instructions": {
+            "Please generate a sentence that describes the steps for solving a quadratic equation.": 0.6896551724137931,
+            "Please generate a sentence that describes the weather in a specific location.": 0.5714285714285715,
+            "Please generate a sentence that describes the appearance of a famous landmark.": 0.5714285714285715,
+            "Please generate a sentence that describes the ingredients and cooking process for a traditional Italian pasta dish.": 0.5454545454545455,
+            "Please generate a sentence that describes the process of making a cup of coffee.": 0.5333333333333333,
+            "Please generate a sentence that describes a specific event happening in a certain location.": 0.5333333333333333,
+            "Please generate a sentence that describes the main features and capabilities of a new smartphone model.": 0.5,
+            "Please generate a sentence that provides information about a specific country.": 0.4444444444444444,
+            "Please generate a sentence that describes the current weather in a specific location. The sentence should include the temperature, humidity, and any relevant weather conditions.": 0.39024390243902435,
+            "Please generate a sentence using the words \"delicious\" and \"dessert\".": 0.38461538461538464
+        },
+        "avg_similarity_score": 0.27345771630900206
+    },
+    {
+        "instruction": "Generate a list of 5 animals and their habitats.",
+        "input": "",
+        "output": "[{animal: Lion, habitat: Savanna}, {animal: Polar Bear, habitat: Arctic}, {animal: Elephant, habitat: Jungle}, {animal: Penguin, habitat: Antarctica}, {animal: Giraffe, habitat: Grasslands}]",
+        "most_similar_instructions": {
+            "Please generate a list of 5 popular movies and their release dates.": 0.6666666666666666,
+            "Please generate a list of 5 countries in Asia and their capital cities.": 0.6363636363636364,
+            "Please generate a list of 5 popular songs from the 90s.": 0.5,
+            "Generate a list of 5 adjectives to describe a beautiful sunset.": 0.5,
+            "Please generate a list of 5 common symptoms of the flu.": 0.5,
+            "Please generate a list of 5 famous paintings by Vincent van Gogh.": 0.4761904761904762,
+            "Please generate a list of 5 famous historical figures from ancient Greece.": 0.4761904761904762,
+            "Please generate a list of 5 essential items for a hiking trip.": 0.4761904761904762,
+            "Please generate a list of 10 random numbers between 1 and 100.": 0.4761904761904762,
+            "Please generate a list of 5 common ingredients used in Italian cuisine.": 0.4761904761904762
+        },
+        "avg_similarity_score": 0.24297731078056523
+    }
+]
